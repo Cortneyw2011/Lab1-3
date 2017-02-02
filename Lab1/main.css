@@ -1,0 +1,110 @@
+html{
+  background-color: gray;
+}
+#header{
+  width: 100%;auto;
+  position: fixed;
+  background-color: orange;
+
+}
+.rotate270 {
+  transform: rotate(270deg);
+  position: relative;
+
+}
+
+.rotate90 {
+  transform: rotate(90deg);
+}
+
+.center img{
+  position: relative;
+  left: 180px;
+  padding: 10px 10px 10px 10px;
+  border: outset black 5px;
+  background-color: green;
+  border-radius: 3px;
+
+}
+
+.center2 img{
+  position: relative;
+  left: 180px;
+  padding: 10px 10px 10px 10px;
+  border: outset black 5px;
+  background-color: green;
+  border-radius: 3px;
+
+}
+
+#p1 {
+  position: relative;
+  left: 180px;
+}
+
+#p2{
+  position: relative;
+  left: 420px;
+  top: -65px;
+}
+
+#p3{
+  position: relative;
+  left: 650px;
+  top: -155px;
+}
+
+#p4 {
+  position: relative;
+  left: 180px;
+}
+
+#p5{
+  position: relative;
+  left: 420px;
+  top: -65px;
+}
+
+#p6{
+  position: relative;
+  left: 650px;
+  top: -155px;
+}
+.center p{
+  border: solid 1px black;
+  position: relative;
+  width: 200px;
+}
+
+.center2 p{
+  border: solid 1px black;
+  position: relative;
+  width: 200px;
+}
+
+#one{
+  width: 1000px;
+  height: 400px;
+  margin: auto;
+  border: outset 5px gold;
+  background-color: pink;
+  padding: 5px 5px 5px 5px;
+
+}
+
+#two{
+  width: 1000px;
+  margin: 100px auto 0 auto;
+  border: outset 5px blue;
+  background-color: orange;
+  padding: 5px 5px 5px 5px;
+
+}
+
+#three{
+  width: 1000px;
+  margin: 100px auto 0 auto;
+  border: outset 5px yellow;
+  background-color: purple;
+  padding: 5px 5px 5px 5px;
+}
